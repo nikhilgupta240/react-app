@@ -1,0 +1,18 @@
+Strict Mode 
+https://docs.microsoft.com/en-us/scripting/javascript/advanced/strict-mode-javascript
+
+
+Closures Review 
+https://developer.mozilla.org/en/docs/Web/JavaScript/Closures
+
+MDN Pages for - 
+String
+Number
+Boolean
+Array
+Date
+Math
+Window
+Document
+Element
+
