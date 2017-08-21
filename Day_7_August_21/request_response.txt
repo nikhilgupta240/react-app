@@ -1,0 +1,51 @@
+HTTP Request
+
+
+Request Line 
+Headers (Name : Value Pairs)
+Body 
+
+http://google.com/search.html
+
+GET /search.html HTTP/1.1
+Host : wwww.google.com
+
+GET /home.html HTTP/1.1
+Host: www.yoursite.com
+
+
+
+
+
+HW: Read about HTTP
+GET, PUT, POST, OPTIONS - different types of HTTP Request
+
+
+Sample of what the server sends to the browser
+
+Status Line
+A bunch of Headers
+Body 
+
+HW : Lookup different status code
+
+
+HTTP/1.1 200 OK
+Date: Sun, 28 Jul 2013 15:37:37 GMT
+Server: Apache
+Last-Modified: Sun, 07 Jul 2013 06:13:43 GMT
+Transfer-Encoding: chunked
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+Webpage Content
+
+HW: Lookup HTTP Request, Response Format
+What is an HTTP Request, Response
+MIME types
+Different type of MIME TYPES 
+
+// Read about PORTS
+// default, reserved ports 
+
+
