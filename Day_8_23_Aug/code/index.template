@@ -1,0 +1,14 @@
+<html>
+
+<head>
+</head>
+<body>
+{{Message}}
+
+<div>
+{{DivContent}}
+
+</div>
+</body>
+
+</html>
