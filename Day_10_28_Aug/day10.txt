@@ -1,0 +1,12 @@
+1. Understand Git
+2. Create a GitHub account
+3. Read this repository
+https://github.com/malikankit/todo-august-28/
+
+4. Rewrite this code on your own
+5. Push it to a repository on GitHub 
+
+
+
+
+
