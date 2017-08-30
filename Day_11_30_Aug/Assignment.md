@@ -53,7 +53,7 @@
 
 * Make a commit after building each sub-feature. For a sample commit history look at [https://github.com/malikankit/ng-aug-todo-app/commits/master] (https://github.com/malikankit/ng-aug-todo-app/commits/master)
 
-* Deadline for assignment : Sunday 3rd August, 2017 - 1 PM
+* Deadline for assignment : Sunday 3rd September, 2017 - 1 PM
 
 * Any Questions : email at ankit@codingblocks.com
 
